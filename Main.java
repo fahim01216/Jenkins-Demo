@@ -5,5 +5,6 @@ public class Main {
         System.out.println("This is Java Program");
         System.out.println("Output from Java Program");
         System.err.println(new Date());
+        System.out.println("Added some files");
     }
 }
